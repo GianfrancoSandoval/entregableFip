@@ -1,2 +1,2 @@
 # entregableFip
-trabajo entregable en grupo : Lautaro, Celeste ,Tomas, Gian Franco
+trabajo entregable en grupo : Celeste ,Tomas, Gian Franco
